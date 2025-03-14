@@ -367,7 +367,7 @@ nav {
     text-align: center;
     padding: 80px 5%;
     background: linear-gradient(rgba(255, 136, 0, 0.6), rgba(255, 136, 0, 0.6)), 
-                url('IMG-20250311-WA0012(1).jpg'); /* Replace with your actual background */
+                url('IMG-20250307-WA0064.jpg'); /* Replace with your actual background */
     background-size: cover;
     background-position: center;
     color: white;
@@ -558,7 +558,7 @@ nav {
 
 .testimonial .quote {
     font-size: 40px;
-    color: #ff6f61;
+    color: yellow;
 }
 
 .testimonial p {
