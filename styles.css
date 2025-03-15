@@ -53,6 +53,22 @@ nav {
     color: black;
 }
 
+/* Fireworks Canvas Limited to First Section */
+.hero {
+    position: relative;
+    overflow: hidden; /* Keeps fireworks inside */
+}
+
+#fireworksCanvas {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 2;
+}
+
 /* Hero Section */
 .hero { 
     display: flex; 
